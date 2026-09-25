@@ -1,159 +1,119 @@
+```html
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5EBDD&height=180&section=header&text=Ankit's%20Cozy%20Corner&fontSize=38&fontColor=6B5947&fontAlignY=38&desc=Just%20a%20guy%2C%20his%20laptop%2C%20and%20a%20curious%20mind.&descAlignY=60&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,50:414345,100:6B705C&height=220&section=header&text=Hey,%20I'm%20Ankit%20👋&fontSize=42&fontColor=F5F0E8&fontAlignY=38&desc=Economics%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=58&descSize=17" width="100%"/>
 
-### ☕ Economics · Data · Coffee · Curiosity
+<br>
 
-🐈 📚 🌿 💻 ☕
+### ☕ Economics, Data & a Little Bit of Cozy
 
----
+*Turning numbers into stories, one dataset at a time.*
 
-🎓 **M.Sc. Economics | Financial Economics**
+📍 Pune, India | 🎓 M.Sc. Economics Student
 
-📊 Exploring Data Analytics, Econometrics & Finance
+<br>
 
-🌱 Learning something new, one dataset at a time.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Coding animation"/>
 
 </div>
 
 ---
 
-## 🌿 A Little About Me
-
-Hey there! I'm **Ankit Mathankar** 👋
-
-I'm an Economics student with a growing interest in **Data Analytics, Financial Economics, and the stories hidden inside data.**
-
-I enjoy exploring how numbers, economics, and technology come together to explain the world around us.
-
-- 🎓 Currently pursuing M.Sc. Economics with a focus on Financial Economics.
-- 📊 Exploring data analysis, visualization, and statistical modeling.
-- 🐍 Learning Python, SQL, and R.
-- 📈 Interested in financial markets, econometrics, and economic research.
-- 🧠 Always curious about learning new tools and solving problems.
-- ☕ Coffee, books, plants, and cats make my day better.
-
----
-
-## 🛠️ My Cozy Toolbox
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 📊 Data Analytics & Visualization
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-6C8EAD?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### 📈 Economics & Statistical Analysis
-
-<p>
-<img src="https://img.shields.io/badge/Econometrics-718B73?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistical_Analysis-8B7355?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Financial_Economics-6B5947?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Time_Series-849B8A?style=for-the-badge"/>
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-</p>
-
----
-
-## 📚 What I'm Exploring
+## 🧑🏻‍💻 About Me
 
 ```python
-ankit = {
-    "field": "Economics & Data Analytics",
-    "specialization": "Financial Economics",
-    "currently_learning": [
-        "Python",
-        "SQL",
-        "Statistics",
-        "Data Visualization",
-        "Econometrics"
-    ],
-    "interests": [
-        "Financial Markets",
-        "Economic Research",
-        "Data-Driven Insights",
-        "Business Analytics"
-    ],
-    "currently_brewing": "Coffee ☕"
-}
+class Ankit:
+    def __init__(self):
+        self.name = "Ankit Mathankar"
+        self.education = "M.Sc. Economics"
+        self.location = "Pune, India"
+        self.interests = [
+            "Data Analytics",
+            "Economics",
+            "Finance",
+            "Data Visualization"
+        ]
+        self.hobbies = [
+            "Reading books",
+            "Listening to old Bollywood songs",
+            "Coffee & coding"
+        ]
+
+    def currently_learning(self):
+        return ["Python", "SQL", "Statistics", "Power BI"]
 ```
 
 ---
 
-## 🐾 Featured Projects
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| 📂 Project | 🌱 Description |
-|:---|:---|
-| 📊 Economic Data Analysis | Exploring economic indicators through data. |
-| 💹 Financial Market Analysis | Studying financial trends and market behavior. |
-| 📈 Data Visualization | Turning complex datasets into clear visuals. |
-| 🧮 Econometrics Projects | Applying statistical methods to economic questions. |
+<img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode&theme=dark" />
 
-</div>
+<br><br>
 
-*More projects coming soon!*
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=catppuccin_latte&hide_border=true&border_radius=15&title_color=6B8E73&icon_color=849B8A" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=15&title_color=6B8E73" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=catppuccin-latte&hide_border=true&border_radius=15" width="65%"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🌷 Beyond the Screen
+## 📊 Featured Projects
 
-When I'm not working with data, you'll probably find me:
+| Project | Description |
+|---|---|
+| 🎬 Bollywood & OTT Analysis | Movie industry trends before and after COVID-19 |
+| 📈 Stock Market Analysis | Explore stock prices, returns, and market trends |
+| 💹 Economic Data Analysis | Explore inflation, GDP, and economic indicators |
+| ☕ Personal Finance Dashboard | Track expenses, savings, and spending patterns |
 
-- ☕ Enjoying a cup of coffee.
-- 📚 Reading or exploring something new.
-- 🎵 Listening to old Bollywood songs.
-- 🌿 Looking for cozy places and peaceful corners.
-- 🐈 Admiring cats and collecting little moments.
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox&hide_border=true" width="42%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=gruvbox&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+## 🌱 Currently Working On
+
+- 📊 Building data analytics projects
+- 🐍 Learning Python for data analysis
+- 📉 Exploring financial markets
+- 📚 Connecting economics with real-world data
 
 ---
 
 <div align="center">
 
-### 🌱 A Little Quote to End With
+### 🐈 A little coffee, a little code, and a curious mind.
 
-*"Stay curious, keep learning, and enjoy the little things."*
+*“In a world full of data, find the story hidden in the numbers.”*
 
-☕ **Made with curiosity, coffee, and a little bit of code.**
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5EBDD&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,50:414345,100:6B705C&height=120&section=footer" width="100%"/>
 
 </div>
+```
+
+### 🎨 Customize it
+1. Replace `YOUR_USERNAME` with your actual GitHub username in all three places.
+2. Change the project names to match your actual repositories.
+3. The color theme uses warm, earthy tones for a cozy but masculine look.
+
+**Design:** Dark charcoal + olive green + warm cream, with a coding aesthetic and a subtle cozy vibe.
