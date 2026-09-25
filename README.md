@@ -1,117 +1,213 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6F8F72,50:A3B18A,100:E9EDC9&text=Ankit%20Mathankar&fontSize=45&fontColor:FFFFFF&fontAlignY=40&desc=Economics%20%7C%20Data%20Analytics%20%7C%20Coffee&descSize=16&descAlignY=60" width="100%"/>
+<!-- HERO SECTION -->
 
-### ☕ A little coffee, a little code, and a lot of curiosity.
-
-*Exploring the world of economics and data, one dataset at a time.*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6C2BFF,50:3A0CA3,100:0B0B16&text=ANKIT%20MATHANKAR&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=ECONOMICS%20%7C%20DATA%20ANALYTICS%20%7C%20CREATIVITY&descSize=14&descAlignY=68" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3500&pause=1000&color=6F8F72&center=true&vCenter=true&width=600&lines=MSc+Economics+%40+GIPE+Pune+%F0%9F%8C%BF;Aspiring+Data+Analyst+%F0%9F%93%8A;Books+%2B+Plants+%2B+Coffee+%2B+Cats+%F0%9F%90%88;Finding+stories+hidden+in+data+%E2%9C%A8" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ankit+%F0%9F%91%8B;Economics+Student+%40+GIPE+Pune+%F0%9F%8C%BF;Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+Data+Into+Stories+%E2%9C%A8" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍-Pune%2C%20India-6F8F72?style=flat-square"/>
-<img src="https://img.shields.io/badge/🎓-MSc%20Economics-A3B18A?style=flat-square"/>
-<img src="https://img.shields.io/badge/☕-Coffee%20Lover-D4A373?style=flat-square"/>
+### 🌙 Welcome to my little corner of the internet.
 
-</div>
+*Where economics meets data, creativity, and a little bit of coffee.*
 
----
+<br/>
 
-## 🌿 A Little About Me
-
-```python
-class Ankit:
-    name = "Ankit Mathankar"
-    education = "MSc Economics | GIPE Pune"
-    interests = [
-        "Data Analytics",
-        "Financial Economics",
-        "Econometrics",
-        "Data Visualization"
-    ]
-    currently_learning = ["Python", "SQL", "Statistics"]
-    little_happiness = [
-        "☕ Coffee", "📚 Books", "🌿 Plants", "🐈 Cats"
-    ]
-
-    def dream(self):
-        return "Turning data into meaningful stories."
-
-me = Ankit()
-```
-
-I'm an economics student who enjoys exploring the connection between **data, finance, and the real world**.
-
-Currently learning new tools, working on projects, and building my journey toward becoming a data analyst.
-
-When I'm not studying, you'll probably find me listening to old Bollywood songs, enjoying a cozy café, or spending time with a good book.
-
----
-
-## 🧸 My Toolkit
-
-<div align="center">
-
-**📊 Data & Analytics**
-
-<img src="https://skillicons.dev/icons?i=python,mysql,r&theme=light"/>
+<a href="#projects">
+<img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECTS-7C3AED?style=for-the-badge&labelColor=161625"/>
+</a>
+&nbsp;
+<a href="#about">
+<img src="https://img.shields.io/badge/🌿_ABOUT_ME-24243A?style=for-the-badge&labelColor=161625"/>
+</a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-
-**🛠️ Development**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light"/>
+<img src="https://img.shields.io/badge/📍_Pune,_India-161625?style=flat-square&color=161625"/>
+<img src="https://img.shields.io/badge/🎓_MSc_Economics-161625?style=flat-square&color=161625"/>
+<img src="https://img.shields.io/badge/☕_Coffee_&_Code-161625?style=flat-square&color=161625"/>
 
 </div>
 
 ---
 
-## 📚 My Projects
+<!-- ABOUT SECTION -->
+
+<a id="about"></a>
+
+## 👋 Hey, I'm Ankit!
+
+<table>
+<tr>
+<td width="58%" valign="middle">
+
+### 🧑‍💻 A curious mind with a love for data.
+
+I'm pursuing my **MSc in Economics at GIPE Pune**, exploring the fascinating connection between economics, finance, and data analytics.
+
+I love turning complex datasets into meaningful insights and creating projects that tell stories through numbers.
+
+🌱 Currently learning Python, SQL & econometrics.
+
+📊 Exploring financial economics and data visualization.
+
+☕ Coffee, books, plants, and cats make my day.
+
+🎧 Old Bollywood songs are my coding soundtrack.
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<!-- Cartoon illustration placeholder -->
+<img src="https://placehold.co/300x300/161625/A78BFA?text=ANKIT%0A%F0%9F%92%BB%20%F0%9F%90%88" width="100%" alt="Ankit cartoon illustration placeholder"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- PROJECTS SECTION -->
+
+<a id="projects"></a>
+
+## 🚀 Featured Projects
+
+*Little experiments, big ideas, and a journey through data.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Economic Data Explorer
+
+<img src="https://placehold.co/600x280/24124A/C4B5FD?text=ECONOMIC+DATA+EXPLORER" width="100%"/>
+
+Explore economic indicators, trends, and patterns using data visualization.
+
+**Tools:** Python · Pandas · Matplotlib
+
+<a href="https://github.com/YOUR_USERNAME">↗ View Project</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💹 Financial Analytics
+
+<img src="https://placehold.co/600x280/171C36/93C5FD?text=FINANCIAL+ANALYTICS" width="100%"/>
+
+Analyze financial data and discover insights using statistical methods.
+
+**Tools:** Python · Excel · Statistics
+
+<a href="https://github.com/YOUR_USERNAME">↗ View Project</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Data Visualization Lab
+
+<img src="https://placehold.co/600x280/142D2A/86EFAC?text=DATA+VISUALIZATION+LAB" width="100%"/>
+
+Transform raw datasets into clear and engaging visual stories.
+
+**Tools:** Python · Power BI · Pandas
+
+<a href="https://github.com/YOUR_USERNAME">↗ View Project</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Economics Research
+
+<img src="https://placehold.co/600x280/302019/FCD9A8?text=ECONOMICS+RESEARCH" width="100%"/>
+
+Explore economic theories, research questions, and real-world applications.
+
+**Tools:** Econometrics · Statistics · Research
+
+<a href="https://github.com/YOUR_USERNAME">↗ View Project</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- SKILLS SECTION -->
+
+## 🛠️ My Creative Toolkit
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/🌱%20Explore%20My%20Projects-6F8F72?style=for-the-badge"/>
+### 📊 Data & Analytics
+
+<img src="https://skillicons.dev/icons?i=python,mysql,r&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+### 💻 Development Tools
+
+<img src="https://skillicons.dev/icons?i=github,git,vscode,jupyter&theme=dark"/>
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+
+## 📈 My GitHub Universe
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0D18&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0D18&title_color=A78BFA&text_color=E5E7EB" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D0D18&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="75%"/>
+
+</div>
+
+---
+
+<!-- PERSONAL SECTION -->
+
+## 🌿 Beyond the Numbers
+
+<div align="center">
+
+| ☕ Cozy Moments | 📚 Curious Mind | 🐈 Little Joys |
+|:---:|:---:|:---:|
+| Coffee & rainy days | Economics & research | Cats & animated worlds |
+| Plants & warm lights | Books & learning | Old Bollywood songs |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+little+universe+%F0%9F%92%9C;Let's+build+something+meaningful+%E2%9C%A8;Stay+curious.+Keep+creating.+%F0%9F%8C%BF" alt="Footer typing animation"/>
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Explore_My_World-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
-
-## 📈 My GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=FAF7F0&title_color=6F8F72&icon_color=D4A373&text_color=5C5C4D" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=FAF7F0&title_color=6F8F72&text_color=5C5C4D" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=FAF7F0&ring=6F8F72&fire=D4A373&currStreakLabel=6F8F72" width="70%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌷 A little corner of curiosity and creativity.
-
-*Books, plants, coffee, a laptop, and a cat keeping me company.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F8F72,50:A3B18A,100:E9EDC9&height=100&section=footer" width="100%"/>
-
-**Thanks for visiting my little corner of GitHub.** ☕🐈
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B16,50:3A0CA3,100:6C2BFF&height=120&section=footer" width="100%"/>
 
 </div>
