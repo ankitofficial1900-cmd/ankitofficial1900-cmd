@@ -1,213 +1,168 @@
-<div align="center">
-
-<!-- HERO SECTION -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:6C2BFF,50:3A0CA3,100:0B0B16&text=ANKIT%20MATHANKAR&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=ECONOMICS%20%7C%20DATA%20ANALYTICS%20%7C%20CREATIVITY&descSize=14&descAlignY=68" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ankit+%F0%9F%91%8B;Economics+Student+%40+GIPE+Pune+%F0%9F%8C%BF;Aspiring+Data+Analyst+%F0%9F%93%8A;Turning+Data+Into+Stories+%E2%9C%A8" alt="Typing SVG"/>
-
-<br/>
-
-### 🌙 Welcome to my little corner of the internet.
-
-*Where economics meets data, creativity, and a little bit of coffee.*
-
-<br/>
-
-<a href="#projects">
-<img src="https://img.shields.io/badge/🚀_EXPLORE_PROJECTS-7C3AED?style=for-the-badge&labelColor=161625"/>
-</a>
-&nbsp;
-<a href="#about">
-<img src="https://img.shields.io/badge/🌿_ABOUT_ME-24243A?style=for-the-badge&labelColor=161625"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍_Pune,_India-161625?style=flat-square&color=161625"/>
-<img src="https://img.shields.io/badge/🎓_MSc_Economics-161625?style=flat-square&color=161625"/>
-<img src="https://img.shields.io/badge/☕_Coffee_&_Code-161625?style=flat-square&color=161625"/>
-
-</div>
-
----
-
-<!-- ABOUT SECTION -->
-
-<a id="about"></a>
-
-## 👋 Hey, I'm Ankit!
-
-<table>
-<tr>
-<td width="58%" valign="middle">
-
-### 🧑‍💻 A curious mind with a love for data.
-
-I'm pursuing my **MSc in Economics at GIPE Pune**, exploring the fascinating connection between economics, finance, and data analytics.
-
-I love turning complex datasets into meaningful insights and creating projects that tell stories through numbers.
-
-🌱 Currently learning Python, SQL & econometrics.
-
-📊 Exploring financial economics and data visualization.
-
-☕ Coffee, books, plants, and cats make my day.
-
-🎧 Old Bollywood songs are my coding soundtrack.
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<!-- Cartoon illustration placeholder -->
-<img src="https://placehold.co/300x300/161625/A78BFA?text=ANKIT%0A%F0%9F%92%BB%20%F0%9F%90%88" width="100%" alt="Ankit cartoon illustration placeholder"/>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- PROJECTS SECTION -->
-
-<a id="projects"></a>
-
-## 🚀 Featured Projects
-
-*Little experiments, big ideas, and a journey through data.*
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Economic Data Explorer
-
-<img src="https://placehold.co/600x280/24124A/C4B5FD?text=ECONOMIC+DATA+EXPLORER" width="100%"/>
-
-Explore economic indicators, trends, and patterns using data visualization.
-
-**Tools:** Python · Pandas · Matplotlib
-
-<a href="https://github.com/YOUR_USERNAME">↗ View Project</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 💹 Financial Analytics
-
-<img src="https://placehold.co/600x280/171C36/93C5FD?text=FINANCIAL+ANALYTICS" width="100%"/>
-
-Analyze financial data and discover insights using statistical methods.
-
-**Tools:** Python · Excel · Statistics
-
-<a href="https://github.com/YOUR_USERNAME">↗ View Project</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Data Visualization Lab
-
-<img src="https://placehold.co/600x280/142D2A/86EFAC?text=DATA+VISUALIZATION+LAB" width="100%"/>
-
-Transform raw datasets into clear and engaging visual stories.
-
-**Tools:** Python · Power BI · Pandas
-
-<a href="https://github.com/YOUR_USERNAME">↗ View Project</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Economics Research
-
-<img src="https://placehold.co/600x280/302019/FCD9A8?text=ECONOMICS+RESEARCH" width="100%"/>
-
-Explore economic theories, research questions, and real-world applications.
-
-**Tools:** Econometrics · Statistics · Research
-
-<a href="https://github.com/YOUR_USERNAME">↗ View Project</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- SKILLS SECTION -->
-
-## 🛠️ My Creative Toolkit
-
-<div align="center">
-
-### 📊 Data & Analytics
-
-<img src="https://skillicons.dev/icons?i=python,mysql,r&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-### 💻 Development Tools
-
-<img src="https://skillicons.dev/icons?i=github,git,vscode,jupyter&theme=dark"/>
-
-</div>
-
----
-
-<!-- GITHUB STATS -->
-
-## 📈 My GitHub Universe
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0D18&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0D18&title_color=A78BFA&text_color=E5E7EB" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D0D18&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" width="75%"/>
-
-</div>
-
----
-
-<!-- PERSONAL SECTION -->
-
-## 🌿 Beyond the Numbers
-
-<div align="center">
-
-| ☕ Cozy Moments | 📚 Curious Mind | 🐈 Little Joys |
-|:---:|:---:|:---:|
-| Coffee & rainy days | Economics & research | Cats & animated worlds |
-| Plants & warm lights | Books & learning | Old Bollywood songs |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+little+universe+%F0%9F%92%9C;Let's+build+something+meaningful+%E2%9C%A8;Stay+curious.+Keep+creating.+%F0%9F%8C%BF" alt="Footer typing animation"/>
-
-<br/><br/>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_World-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B16,50:3A0CA3,100:6C2BFF&height=120&section=footer" width="100%"/>
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ankit | Economics & Data</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Permanent+Marker&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #0d0d12;
+            color: #ffffff;
+            font-family: 'Inter', sans-serif;
+            overflow-x: hidden;
+        }
+        .font-marker {
+            font-family: 'Permanent Marker', cursive;
+        }
+        .neon-border {
+            border: 2px solid #8b5cf6;
+            box-shadow: 0 0 15px rgba(139, 92, 246, 0.3);
+        }
+        .card-bg {
+            background: linear-gradient(145deg, #1a1a24, #121219);
+        }
+    </style>
+</head>
+<body class="antialiased selection:bg-[#ccff00] selection:text-black">
+
+    <!-- Navigation -->
+    <nav class="flex justify-between items-center p-8 max-w-7xl mx-auto">
+        <div class="font-marker text-2xl tracking-wider text-white">ANKIT.</div>
+        <div class="hidden md:flex gap-8 text-sm font-semibold text-gray-300">
+            <a href="#" class="hover:text-[#ccff00] transition">Home</a>
+            <a href="#projects" class="hover:text-[#ccff00] transition">Projects</a>
+            <a href="#about" class="hover:text-[#ccff00] transition">About</a>
+        </div>
+        <button class="bg-[#8b5cf6] w-10 h-10 rounded-full flex items-center justify-center hover:scale-105 transition">
+            <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path></svg>
+        </button>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="relative max-w-7xl mx-auto px-8 pt-12 pb-24 flex flex-col md:flex-row items-center justify-between">
+        <div class="md:w-3/5 z-10">
+            <p class="font-marker text-2xl text-[#ccff00] mb-2 transform -rotate-2">Hey, I'm</p>
+            <h1 class="font-marker text-7xl md:text-9xl tracking-tighter text-white mb-6 uppercase drop-shadow-lg">
+                ANKIT
+            </h1>
+            <p class="text-xl text-gray-300 font-semibold mb-8 tracking-wide">
+                Economics <span class="text-[#8b5cf6]">•</span> Data Analytics <span class="text-[#8b5cf6]">•</span> Storyteller
+            </p>
+            <div class="flex gap-4">
+                <a href="#projects" class="bg-[#ccff00] text-black font-bold py-3 px-8 rounded-full hover:bg-white transition transform hover:scale-105 flex items-center gap-2">
+                    <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z"></path></svg>
+                    Explore Data
+                </a>
+                <a href="#contact" class="border-2 border-gray-600 text-white font-bold py-3 px-8 rounded-full hover:border-[#ccff00] hover:text-[#ccff00] transition">
+                    View GitHub ↗
+                </a>
+            </div>
+        </div>
+        
+        <!-- Placeholder for Character Illustration -->
+        <div class="md:w-2/5 mt-12 md:mt-0 relative">
+            <div class="absolute inset-0 bg-[#8b5cf6] rounded-full blur-[100px] opacity-30"></div>
+            <img src="https://api.dicebear.com/7.x/notionists/svg?seed=Ankit&backgroundColor=transparent" alt="Character Illustration" class="relative z-10 w-full max-w-md mx-auto drop-shadow-2xl hover:scale-105 transition duration-500" />
+            <!-- Floating Elements -->
+            <div class="absolute top-10 right-10 text-4xl animate-bounce">☕</div>
+            <div class="absolute bottom-10 left-0 text-4xl animate-pulse">📊</div>
+        </div>
+    </header>
+
+    <!-- Featured Projects -->
+    <section id="projects" class="max-w-7xl mx-auto px-8 py-16">
+        <h2 class="font-marker text-3xl md:text-4xl mb-10 text-white">FEATURED PROJECTS <span class="text-[#8b5cf6]">~</span></h2>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <!-- Project 1 -->
+            <div class="card-bg p-4 rounded-3xl hover:-translate-y-2 transition duration-300 border border-gray-800">
+                <div class="h-48 rounded-2xl bg-[#2a2a35] mb-4 overflow-hidden relative">
+                    <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=500&q=80" class="object-cover w-full h-full opacity-70 hover:opacity-100 transition" />
+                </div>
+                <h3 class="font-bold text-lg text-white">Market Analysis</h3>
+                <p class="text-sm text-gray-400">R & Econometrics</p>
+            </div>
+            <!-- Project 2 -->
+            <div class="card-bg p-4 rounded-3xl hover:-translate-y-2 transition duration-300 border border-gray-800">
+                <div class="h-48 rounded-2xl bg-[#2a2a35] mb-4 overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=500&q=80" class="object-cover w-full h-full opacity-70 hover:opacity-100 transition" />
+                </div>
+                <h3 class="font-bold text-lg text-white">Financial Trends</h3>
+                <p class="text-sm text-gray-400">Python & Pandas</p>
+            </div>
+            <!-- Project 3 -->
+            <div class="card-bg p-4 rounded-3xl hover:-translate-y-2 transition duration-300 border border-gray-800">
+                <div class="h-48 rounded-2xl bg-[#2a2a35] mb-4 overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=500&q=80" class="object-cover w-full h-full opacity-70 hover:opacity-100 transition" />
+                </div>
+                <h3 class="font-bold text-lg text-white">Data Visualization</h3>
+                <p class="text-sm text-gray-400">PowerBI & SQL</p>
+            </div>
+            <!-- Project 4 -->
+            <div class="card-bg p-4 rounded-3xl hover:-translate-y-2 transition duration-300 border border-gray-800">
+                <div class="h-48 rounded-2xl bg-[#2a2a35] mb-4 overflow-hidden">
+                    <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=500&q=80" class="object-cover w-full h-full opacity-70 hover:opacity-100 transition" />
+                </div>
+                <h3 class="font-bold text-lg text-white">AI Workflows</h3>
+                <p class="text-sm text-gray-400">Generative Prompts</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="max-w-7xl mx-auto px-8 py-16 flex flex-col md:flex-row items-center gap-12">
+        <h2 class="font-marker text-4xl text-white">SKILLS</h2>
+        <div class="flex flex-wrap gap-4 items-center">
+            <img src="https://skillicons.dev/icons?i=python,r,mysql,pandas,git,github&theme=dark" alt="Skills" class="h-16 hover:scale-105 transition" />
+            <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" class="rounded-lg h-12" />
+            <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" class="rounded-lg h-12" />
+        </div>
+    </section>
+
+    <!-- About Me -->
+    <section id="about" class="max-w-7xl mx-auto px-8 py-16">
+        <div class="neon-border rounded-3xl p-1 relative overflow-hidden">
+            <div class="card-bg rounded-[22px] p-8 md:p-12 flex flex-col md:flex-row gap-8 items-center">
+                <div class="md:w-1/3 flex justify-center">
+                    <div class="bg-[#ccff00] text-black font-marker text-2xl p-6 rounded-2xl transform -rotate-3 text-center shadow-lg">
+                        BOOKS<br/>+ PLANTS<br/>+ COFFEE
+                    </div>
+                </div>
+                <div class="md:w-2/3">
+                    <h2 class="font-marker text-3xl mb-4">ABOUT ME</h2>
+                    <p class="text-gray-300 leading-relaxed mb-4 text-lg">
+                        I'm an MSc Economics student at GIPE Pune, finding stories hidden in data. I enjoy exploring the connection between data, finance, and the real world. 
+                    </p>
+                    <p class="text-gray-400 leading-relaxed">
+                        Currently learning new tools, working on projects, and building my journey toward becoming a data analyst. When I'm not studying, you'll find me with a good book, a coffee, and my cats.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="border-t border-gray-800 mt-20 pb-12 pt-12">
+        <div class="max-w-7xl mx-auto px-8 flex flex-col md:flex-row justify-between items-center gap-8">
+            <h2 class="font-marker text-3xl md:text-4xl text-white">
+                LET'S FIND <span class="text-[#ccff00]">STORIES</span><br/>IN DATA!
+            </h2>
+            <div class="text-gray-400 flex flex-col gap-2">
+                <div class="flex items-center gap-2">
+                    <span>📍</span> Pune, India
+                </div>
+                <div class="flex items-center gap-2">
+                    <span>🎓</span> MSc Economics
+                </div>
+            </div>
+            <div class="flex gap-4">
+                <a href="#" class="w-12 h-12 rounded-full bg-gray-800 flex items-center justify-center hover:bg-[#8b5cf6] transition text-white">IN</a>
+                <a href="#" class="w-12 h-12 rounded-full bg-gray-800 flex items-center justify-center hover:bg-[#8b5cf6] transition text-white">GH</a>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
